@@ -1,0 +1,12 @@
+1. Open terminal in backend folder.
+2. Type this command: 
+	npm install -g nodemon
+3. After installation, type this command:
+	nodemon server
+4. The server will run and the database will be connected!
+5. Open terminal in the folder containing build folder.
+6. Type this command: 
+	npm install -g serve
+7. After installation, type this command:
+	serve build
+8. Copy the http link to the browser and you can see the app working.
